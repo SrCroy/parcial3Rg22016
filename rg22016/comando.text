@@ -1,0 +1,13 @@
+root@9f39b59a5a69:/var/www/html/parcial3Rg22016/rg22016# php artisan db:seed --class=CategoriaSeeder
+
+   INFO  Seeding database.  
+
+root@9f39b59a5a69:/var/www/html/parcial3Rg22016/rg22016# php artisan db:seed --class=ProveedoresSeeder
+
+   INFO  Seeding database.  
+
+root@9f39b59a5a69:/var/www/html/parcial3Rg22016/rg22016# php artisan db:seed --class=ProductoSeeder   
+
+   INFO  Seeding database.  
+
+root@9f39b59a5a69:/var/www/html/parcial3Rg22016/rg22016# 
